@@ -1,0 +1,14 @@
+---
+id: 552
+title: 'Signs of Danger: The Anxiety of a Culture'
+date: 2015-11-10T13:32:05+00:00
+author: Hana Anderson
+layout: post
+guid: http://lindsaythomas.net/engl3560/?p=552
+permalink: /2015/11/10/signs-of-danger-the-anxiety-of-a-culture/
+categories:
+  - Blog 6
+---
+In the assigned portion from _Signs of Danger: Waste, Trauma, and Nuclear threat_, Peter C. Van Wyck proposes a perception of the mark where our culture ends and nature begins, and I am intrigued by the way that he assesses that mark. He poses a variety of questions that surround ecological thought, environmental risk, ontological threat, and conventional notions of our cultural responses to nature. It is quite a lot of thought provoking sections with a mildly short introduction. In the portion, Van Wyck produces a design for a desert monument. He elaborates upon the notion of the human measurement providing a location for the monument to exist within our world and become engrained within our culture. A human figure will be portrayed within the design to serve as an “index of the inhuman, as the zero degree of the strange”. In other words, Van Wyck seems to convey that we are a figure to merely respond to the monument and normalize the existence of one, which I am intrigued _(or jarred)_ by. I am intrigued because I think that Van Wyck may be illuminating the space that exists between the monument and the human figure. However, I am a bit confused because Van Wyck states that the monument must not function as a true monument, so I am led to believe that Van Wyck does not want the human figure to be near or proud of the monument.
+
+Leading from those thoughts, I am led to think that through the piece, Van Wyck may be illuminating upon the dissatisfaction regarding our patterns of ecological thought and the space between the human figure and the monument. I am further intrigued because by becoming aware of the space between the monument and the human figure, I began to consider that we are the ones who created the situation to lead to a monument, established the monument, and satisfied the existence of the monument. That’s the pattern of ecological thought regarding our culture of nature that Van Wyck seems to be illuminating. Additionally, I understand that Van Wyck claims that the desert monument provides a way to read the anxiety of the culture, which I think may be the anxiety that results from our thought pattern as a culture. That’s the understanding that I received from the piece. However, I am not quite sure whether Van Wyck deems that to be a negative or position, although I think that the dissatisfaction remains clear and provoking.

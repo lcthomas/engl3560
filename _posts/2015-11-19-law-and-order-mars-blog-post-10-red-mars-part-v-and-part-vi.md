@@ -1,0 +1,16 @@
+---
+id: 608
+title: 'Law and Order: Mars. Blog Post 10. Red Mars Part V, and Part VI'
+date: 2015-11-19T17:34:20+00:00
+author: Sam
+layout: post
+guid: http://lindsaythomas.net/engl3560/?p=608
+permalink: /2015/11/19/law-and-order-mars-blog-post-10-red-mars-part-v-and-part-vi/
+categories:
+  - Blog 10
+---
+One of the most basic tendencies of mankind is the need for order out of chaos and the need for a foundation built on law. The same can be said for the group of people in Robinson’s <u>Red Mars</u>. There is an evident need for order, and the concept of law is a pattern present in the novel, especially in Part V and Part VI.
+
+On page 331 there is a conversation between Chang and Sam Houston where Sam asks, “We, um, we can get a warrant from UNOMA, if you like.” It is here where we see that even if this new environment, there is a grasping for the old order, the old way of doing things, the need for warrants, and due process to get what you want. In this way, Earth has been brought to Mars, further enforcing the idea that Mars is heading down the path of becoming Earth, without the Earth. This idea is further supported on page 335 where Boone is confronting the UNOMA investigators, the passage reads, “The painkillers were wearing off, and he returned early to his rooms. His door was open. When he rushed in he found two of the UNOMA investigators insider. “What are you doing!” he cried angrily. “Just looking out for you,” one of them said smoothly. They glanced at each other. “Wouldn’t want someone to try something.” “Like breaking and entering?” Boone said, standing in the doorway and leaning against it.” The passage later reads, “ “Just who gave you authorization for this?” Boone said, folding his arms over his chest. “Well.” They looked at each other again. “Mr. Houston is our superior officer&#8211;“” Again we see the frantic grasping at the straws of Terran law. Boone bases his entire complaint on the idea of “breaking and entering”, an Earthly idea, an idea he brought with him to Mars. The human need for law is so great that even in this new world, people transplant law as a means to instill a feeling of security and comfort.
+
+And then later, in Part VI on page 391, it reads, “Yes the stakes were high, and the situation existed in the most powerful of balances, the poor surging up out of the south and pressing the northern barriers of law and money and pure military force.” Throughout the novel, one of the main themes is humanity’s movement to Mars, something that would require terraforming, as to make the environment more friendly towards mankind as a whole, and in the process making Mars more like Earth. But while there is the more visible terraforming, there is also the less visible forming of social structure, and I feel that the heavy reliance on Earth-based laws supports this idea that even with the idea of Utopia, mankind is currently doomed to ultimately create another Earth, copy and pasting everything from the old planet to the new one, with no room for improvement or natural betterment.

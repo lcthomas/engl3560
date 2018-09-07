@@ -1,0 +1,16 @@
+---
+id: 489
+title: 'Post Seven: The End of Oryx and Crake'
+date: 2015-10-27T12:34:06+00:00
+author: Sidney
+layout: post
+guid: http://lindsaythomas.net/engl3560/?p=489
+permalink: /2015/10/27/post-seven-the-end-of-oryx-and-crake-2/
+categories:
+  - Blog 7
+---
+Once Snowman begins his journey towards the old Paradice base, he begins to slowly exhibit signs of his loosening grip on reality. He finds himself following the rules of the Crakers, such as apologizing to the slug for stepping on it, just like the Crakers would have done to any &#8216;child of Oryx&#8217; (page 334). This is a sign of his intense and acute loneliness. Snowman so much wants to belong to a group, and the only one around so far has been the Crakers. As Snowman becomes more and more delirious, he blurs the lines between Craker and human, also evidenced by the sight of Oryx and Crake&#8217;s bones, and his inability to figure out how to mourn the loss of his two closest friends, one of which has been with him since his early childhood (page 335). How should he react to the sight? He mourns this inability to know what to do, saying &#8220;Oh how to lament? he&#8217;s a failure even at that&#8221; (page 335).
+
+This blurring of lines between Craker and human for Snowman can easily highlight how society and the people that you chose (or not choose) to associate with affect every single person in their attitude and mannerisms. Snowman clings to the scraps of his former self, Jimmy, while simultaneously becoming one of the Crakers, because they&#8217;re the only contact he has now after the decline of the human race. While he lives with the Crakers, Snowman is able to be more like Jimmy, to tell himself the differences between him and the Crakers and chose actions and words that are more human-like, different from the people that he now finds himself surrounded by. But as Snowman ventures away from the Crakers for an extended period of time, the longer he goes without contact from any other non-animal being, the more he finds himself calling back to the ways of the Crakers, and more willing to imitate them. The more that these two ways of life mix, the more we see of Jimmy&#8217;s memories interspersed between the actions of Snowman in the &#8216;present&#8217; of the novel.
+
+At the end of the novel, Snowman goes to confront the humans that had passed through the Craker camp. As he heads towards the beach, tracing the path of the intruders, he finds himself struggling with what to do. Should he approach them as a fellow human, relieved that he&#8217;s no longer the last of his kind? Or should he approach as one of the Crakers, albeit one that has more self-preservation and with a knowledge that these humans could potentially harm rather than help. This action all depends on if Snowman identifies more as a human, or more as the Crakers that he&#8217;s found himself surrounded with after the destruction of humanity. The novel ends on a cliffhanger, not revealing the choice that Snowman makes, allowing the reader to examine his actions and thoughts leading up to the moment to decide what he chooses to do.

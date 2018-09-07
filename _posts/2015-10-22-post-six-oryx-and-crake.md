@@ -1,0 +1,16 @@
+---
+id: 473
+title: 'Post Six: Oryx and Crake'
+date: 2015-10-22T14:06:05+00:00
+author: Sidney
+layout: post
+guid: http://lindsaythomas.net/engl3560/?p=473
+permalink: /2015/10/22/post-six-oryx-and-crake/
+categories:
+  - Blog 6
+---
+In the first part of chapter eleven, Vulturizing, we learn about Jimmy&#8217;s relationship with Amanda Payne after his graduation from Martha Graham. It explicitly states that &#8220;[&#8230;] he&#8217;d wanted to mend her, do the repairs, freshen up the paint. Make her new&#8221; (page 242). This is a parallel to both how Jimmy treats the girls during his schooling at Martha Graham, and how he treats Oryx in the small scenes we see between them. In Applied Rhetoric, chapter eight, it&#8217;s said that &#8220;At first, Jimmy would rush to their aid: he was tender-hearted, he&#8217;d been told, and nothing if not chivalrous. He&#8217;d draw out of them their stories of hurt, he&#8217;d apply himself to them like a poultice. But soon the process would reverse, and Jimmy would switch from bandager to bandagee&#8221; (page 190).
+
+Jimmy has a fascination with others&#8217; stories and how to &#8216;fix&#8217; them. With the girls at Martha Graham and Amanda Payne they accept his &#8216;help&#8217; and views on their issues, and he subsequently turns this around in order to garner sympathy for himself. Oryx, on the other hand, doesn&#8217;t allow Jimmy to draw sympathy out of her. She even refuses to allow him the first step in his process with woman; she doesn&#8217;t feel sorry for herself or need &#8216;bandaging&#8217; at all. Because of this, Jimmy is fixated on her, constantly worrying at Oryx and unable to find a hole in  her armor while at the same time suffering confusion on how she doesn&#8217;t seem damaged by her past at all. Oryx doesn&#8217;t see what she has gone through as anything more than a transaction; she worked for Jack making &#8216;movies&#8217; and other favors, and in return received English lessons. For Oryx, this was an equal enough exchange. For Jimmy this is unprecedented, and he doesn&#8217;t understand how Oryx could be mentally stable after all of it, or need his help in examining and confronting her past. Because of this lack of initial &#8216;bandaging&#8217; of Oryx, and her flippant views on his problems, as evidenced by the lines &#8220;_So Jimmy, your mother went somewhere else? Too bad. Maybe she had some good reasons. You ever thought of that?_&#8220;, Jimmy is never able to set up the exchange he has with the other women. He isn&#8217;t allowed sympathy from Oryx, and isn&#8217;t allowed to feel sympathy for her either, according to her actions and words (page 191). It&#8217;s even stated in the text that &#8220;Oryx has neither pity for him nor self-pity&#8221; (page 191).
+
+But where does this view on relationships that Jimmy has come from? It&#8217;s safe to say that a large part of it comes from the way his mother treated him when he was a child. Her attitude (such as mostly leaving him to fend for himself on the normal days, on the &#8216;good&#8217; days having lunch made for him when he came home from school) vastly shaped the need for sympathy that Jimmy feels. He even uses her as a story to attract attention from women, to get the sympathy and attention he was deprived of as a child.

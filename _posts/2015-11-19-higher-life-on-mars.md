@@ -1,0 +1,14 @@
+---
+id: 605
+title: Higher Life On Mars
+date: 2015-11-19T14:43:12+00:00
+author: nathanw
+layout: post
+guid: http://lindsaythomas.net/engl3560/?p=605
+permalink: /2015/11/19/higher-life-on-mars/
+categories:
+  - Blog 9
+---
+Frank kills John.
+
+This section focused on religion more than previous sections. Thinking about how religion would make its way into a martian colony was pretty interesting to consider. It seemed like John was hesitant to give any indication of his own thoughts on religion. This could potentially be because he is afraid that doing so might divide the people living there. As we can see in our current geo-political climate, religion has power to divide people in a militaristic way against people who have different beliefs. Bringing people together from all over the world would certainly lend itself to those people forming groups amongst themselves. Also, trying to make laws on mars with people from different cultures would be difficult as having many different moral codes coming together might make some laws seem more important to some and trivial to others. I think it would be strange to live on mars in that they don&#8217;t have nations. The idea of everyone being apart of the same group hasn&#8217;t really occurred before on earth and I&#8217;m not sure if people could live together in this way. It is also interesting that Frank, the person who killed John, was religious. This goes along with the notion that religious differences would almost have to divide people. Maybe this is the author&#8217;s way of supporting the idea that different people would never be able to unite in such a utopian way. On the other hand, mars is completely devoid of religious precedent in good ways. Thinking of the israel Palestine conflict, there would be no land that was seen as holy. There would be less to fight for in terms of people having an idea about how things should be. As I have been reading this novel, the general, reoccurring theme seems to be that people can not leave behind their problems, but rather their problems are set into how they live. Religion has made its way into this theme as another way for people to think they are better than other people. This also plays into the theme of a utopia. In the beginning of the novel, the characters hailed Mars as a new chance to make a perfect society. The novel has essentially been giving reason after reason why this can never be a goal for humanity no matter how hard we try or what kind of crucible in which we are placed.  Ultimately, Robinson adds religion as another reason why a utopian society is also never going to be an option.

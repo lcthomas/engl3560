@@ -1,0 +1,24 @@
+---
+id: 465
+title: 'Response 7: Academic Erosion'
+date: 2015-10-17T13:04:46+00:00
+author: hannahs
+layout: post
+guid: http://lindsaythomas.net/engl3560/?p=465
+permalink: /2015/10/17/response-7-academic-erosion/
+categories:
+  - Blog 7
+---
+The world(s, both past and present) of _Oryx and Crake_ is (are) an exploration of the dynamic, continual interaction and disruption of form—social, political, economic, environmental—across space and time.
+
+The separation of the humanities and STEM majors is one example. Crake’s university, the Whatson-Crick Institute, is highly structured, dividing and categorizing the work and majors of students, rejecting imaginative pursuits, and attracting only individuals of “single-track tunnel-vision minds.” These minds, or rather, their separation from (and in Crake’s case, rejection of) all other forms of knowledge lead to entirely preventable, disruptive clashes of form.
+
+For instance, Crake fails to take into account basic natural form, the vacating of evolutionary niches (such as that currently held by feral cats) inevitably leading to an appropriation of those niches by other animals (like bobkittens). The proliferation of bobkittens is a mistake made from lack of awareness of natural form, in favor of pure, scientific rationality, a literally closed off (“single-track, tunnel-vision”) mindset focused on solution, or, _resolution_, not taking into account the continual natural processes governing environment. As Crake says, he doesn’t “believe in Nature” (206), and therefore has no concept of the potential consequences of wolvogs and bobkittens. The consequences of this lack of awareness of form are apparent through time, as both creatures reappear as threats to both Jimmy and the Children of Crake in the narrative future, but also through culture, as the bobkittens attack “short joggers” and kill babies in the pleeblands (164).
+
+The disregard for the pleeblands is linked to the disregard for the humanities. Jimmy views the pleeblands as “boundless, porous, penetrable, wide-open” and “subject to chance” (196). A large number of students at Martha Graham are from the pleeblands, while the Watson-Crick Institute is inhabited almost entirely by those of the “genius gene” of the compounds (194). Infested with “cockroaches,” its security gateway a “joke” (186), Martha Graham is just as abandoned and denigrated as the pleeblands themselves, but also just as _“penetrable_” by the pleeblands as they seem to Jimmy, a grounds for the merging of two literally walled off social forms: at Martha Graham, the compounders and pleeblanders mingle, seemingly on equal terms.
+
+The humanities education is seen as a thing of the past, unimportant, “pleasant to contemplate…but no longer central to anything.” It is the “erosion of its former intellectual territory” (187), that is, the territory of the _un_important, of art, music and writing, which lead Martha Graham, in addition to housing pleeblanders, to contribute to the genetic discrimination rampant in the pleeblands. Jimmy’s career coming up with company taglines is an example of this: the manufacture of diseases (social and biological) and cures in pursuit of economic gain, as if capitalism is the only universal, trans-societal form: “money osmosis” (211).
+
+Viewing diseases “from a business point of view” (211), as Crake puts it, again blurs the line between two essential governing forms: human and natural. Diseases are a product of natural selection, inhabiting a highly specific niche of predation on particular organisms; however, through appropriating these natural forms, corporations like _HelthWyzer_ have put them to use for human business. The diseases are now a form of social injustice and economic gain, showing the power of the compounds (and science academics like Crake) over the pleeblands. In addition, the creation of hostile bioforms for use against the pleeblands is undertaken through an appropriation of artistic form—literally _eroding_ the intellectual territory of the humanities by transforming the majors there into advertising majors, rather than more traditionally artistic ones.
+
+The separation (isolation) of differing schools of thought, most notably those of the humanities and science, are seen as both inevitable and irrevocable by the characters. Crake claims “mankind needs barriers” (206). The lack of interaction between these schools of thought, STEM and humanities, leads to a lack of awareness _of the form itself_. Crake has no concept of form as a dynamic, changeable entity through time; he believes “the elimination of one generation” signals “game over forever,” that a break in time is the same as the loss of form. However, residual forms abound, in spite of him: though he claims religion is just a collection of neurons that he has eliminated form his ‘Children,’ they still practice “prayer or invocation,” religious practices kept alive by Jimmy’s words (157).

@@ -1,0 +1,16 @@
+---
+id: 399
+title: 'Blog 5: The Successes and Shortcomings of my Close Readings'
+date: 2015-09-30T21:40:30+00:00
+author: rikkiw
+layout: post
+guid: http://lindsaythomas.net/engl3560/?p=399
+permalink: /2015/09/30/blog-5-the-successes-and-shortcomings-of-my-close-readings/
+categories:
+  - Blog 5
+---
+There are many things I could improve upon in my close readings. One major aspect that I think I need to work on is in my thesis statements. In the close reading tip sheet the author talks about how to construct a thesis. It article states, “Ask yourself how the passage provides insight into the text (and the context of the text). Try to determine how the passage provides us a key to understanding the work as a whole” (2). As I reflect on my writings I noticed that I have a bad habit of staying on the surface of concepts in the works. The things I notice in the text are usually directly written within the words. I don’t fully understand how to grasp going beneath it. In my first post, I began my blog with, “In _The_ _Ones who Walk Away from Omelas_, Le Guin uses diction to depict the in action of the ones in that society who walk away from Omelas.” It’s not that I think that that statement is necessarily bad, it just kind of leaves you thinking “so what?” Throughout the rest of my post I included textual evidence but didn’t ever reflect on why my idea mattered.
+
+One thing I liked about my post is that I provided a question. In the “Observation” section of Paul Graham’s article he talks about the importance of asking questions. Graham writes, “It’s good to have a habit of asking questions, especially questions beginning with Why. But not in the random way that three year olds ask why.” In my post I addressed the fact that no one in Omelas ever felt guilt. I did a good job in that I asked well, “What does that say about the citizens of Omelas if they feel no guilt or remorse for that child?” but as I said before I never got around to explaining the importance of that. I never actually answered my own question. I talk in circles or change the subject but never get back to the actual point I was trying to prove. This is something in particular that I really would like to get better at. I know that on occasion I do have some really good ideas, I am just not good at actually getting those ideas out or expressing them in my fullest potential. Maybe a way I could improve this is by writing about things I know I can prove. Like, only ask the questions I know the answer to. My only fear in that is that again, my essays will only reflect the concepts on the surface of the works.
+
+Paul Graham talks about disobedience in his article that I think reflects a lot on how I look at close readings. He writes, “If there’s one piece of advice I would give about writing essays, it would be: don’t do as you’re told.” I won’t lie and say that I love close readings (though mainly that’s because I don’t think I’m any good at them) but I do think they are important. Close readings can allow you to “not do as you’re told” in that you can express your ideas about the text and share them with others. They start conversations. They make you think. They can broaden your knowledge on things you might never have really thought about before. And isn’t that why we read in the first place?

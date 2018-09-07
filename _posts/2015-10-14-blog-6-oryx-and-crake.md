@@ -1,0 +1,14 @@
+---
+id: 456
+title: 'Blog 6: Oryx and Crake'
+date: 2015-10-14T21:51:53+00:00
+author: rikkiw
+layout: post
+guid: http://lindsaythomas.net/engl3560/?p=456
+permalink: /2015/10/14/blog-6-oryx-and-crake/
+categories:
+  - Blog 6
+---
+While reading <u>Oryx and Crake</u>, one pattern that stood out to me was the separation of Jimmy and Snowman. Atwood depicts Jimmy and Snowman as being the same person, yet the writing contradicts that. It intrigued me to see how quickly she goes back and forth between the two. The first close instance of this is when Atwood writes, “Jimmy’s real mummy would be there all the time- this was held out to him like a treat- and nobody needed two mummies, did they? Oh yes they did, thinks Snowman” (30). Even on the next page, there is another switch, “Snowman has a clear image of his mother- of Jimmy’s mother” (Atwood 31). There is this separation between Jimmy and Snowman. Jimmy is the persona before the apocalypse and Snowman is the persona that takes over afterward. But why? Why is it when Snowman reflects on his life as Jimmy, does it have to be constantly reiterated that he is Snowman. Throughout the novel so far there are many instances where he stresses this. Atwood writes, “Maybe she had loved Jimmy, thinks Snowman… But Jimmy’s mother and her ilk must have been right, thinks Snowman” (61). With this particular quote, I think that Snowman is saying that his mother might have loved Jimmy, but in a way that portrays she wouldn’t have loved Snowman.
+
+Through all of these examples, it is as if Snowman is trying to show that Jimmy no longer exists, but his constant daydreaming of his past times show how real Jimmy still is; “The more Snowman thinks about it, the more he’s convinced that Ramona and his father had refrained. They’d waited till Jimmy’s mother had buggered off in a splatter of pixels” (Atwood 66). In all of these instances, Snowman is reflecting on things that deal with his mother. Did he create this new persona because of her? Did he feel like he wasn’t good enough for her as Jimmy, so he tries to do away with him all together? It is frustrating because I can see that if there is this many examples of it already, than it has to hold some sort of importance, yet I cannot grasp its relevance. If Snowman truly is Snowman now, then why not refer to himself as Snowman even when reminiscing on times when he was not; when he was still Jimmy? I think that even though Snowman believes he is no longer Jimmy, I don’t think he can ever get away from him. Even if he is the only human left on earth, all Snowman has are his memories, and all of his memories are Jimmy.

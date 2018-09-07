@@ -1,0 +1,16 @@
+---
+id: 601
+title: 'Post Ten: Becoming Mars'
+date: 2015-11-19T12:44:39+00:00
+author: Sidney
+layout: post
+guid: http://lindsaythomas.net/engl3560/?p=601
+permalink: /2015/11/19/post-ten-becoming-mars/
+categories:
+  - Blog 10
+---
+In Red Mars, there is a particular focus on the act of &#8216;becoming rock&#8217;, or more specifically, &#8216;becoming Mars&#8217;. We first see it in Nadia&#8217;s chapter, where she is dazzled by the beauty of Mars, where a whole section dedicated to her new perception and love of the landscape, culminating into the two lines &#8220;Weight seeped inward from her skin, and she didn&#8217;t feel hallow anymore; on the contrary she felt extremely solid, compact, balanced. A little thinking boulder, set spinning like a top.&#8221; (page 142).
+
+In the most recent reading, Part Five focusing on John Boone, we see another instance where one of the First Hundred become something more, something like rock, or planet. &#8220;And then, remembering what one of the translating voices had told him, &#8216;Ana el-Haqq, ana Al-Qahira. Ana el-Haqq, ana al-Qahira.&#8217; I am God, I am Mars, I am God&#8230; The others quickly joined him in this chant, lifted it into a wild song, and in the flash of rotating faceplates he caught sight of their grinning faces.&#8221; (page 313). John spends this scene spinning outside with the Quadarite Sufis people, where they spin together into a pattern, into an orbit, all the while chanting the various names for Mars. During this ceremony, or dance, John experiences a euphoria, one much like what Nadia experiences when she transforms into planet. &#8220;&#8216;I&#8217;m going to live for a thousand years&#8217;, he thought.&#8221; (page 314).
+
+But what&#8217;s going on, with people turning into planets? I think that it&#8217;s the novel&#8217;s way of showing how every little thing impacts the way we think, we feel, how we live. Mars is ever-present, the looming debate topic, the dust that gets into every little crack and crevice. The humans attempt to make Mars &#8216;theirs&#8217;, to turn it into a clone of Earth. They even start to mess with the atmosphere, global warming, every aspect that they can change, just to make it how they remember Earth to be. Maybe even a better Earth. They terraform the land, they launch devices to heat up the planet. But at the same time, like how John tells Ann that &#8220;So we terraform the planet; but the planet areoforms us,&#8221; the planet itself changes the people that live on it (page 253). By making Mars what they want it to be, instead of letting the planet stay the same as it had always been, the people themselves undergo a change. They &#8216;become planet&#8217; while the planet &#8216;becomes else&#8217;, this fundamental change that seems to help the characters that experience it become different from the other inhabitants, to think differently and feel differently about what they&#8217;re doing on Mars. Like how Nadia becomes a small advocate for the preservation of Mars, how John worships the planet during his transformation.
